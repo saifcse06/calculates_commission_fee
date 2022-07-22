@@ -26,5 +26,8 @@
     "test": [
       "@phpunit"
     ]
+  },
+  "require": {
+    "ext-bcmath": "*"
   }
 }
